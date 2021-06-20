@@ -20,6 +20,8 @@
 }
 
 .App-header .Heading{
+  font-weight: 500;
+  font-family:'Courier New', Courier, monospace;
   position: fixed;
   top: 2%;
   left: 0;
