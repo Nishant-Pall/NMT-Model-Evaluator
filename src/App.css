@@ -21,7 +21,7 @@
 
 .App-header .Heading{
   position: fixed;
-  top: 0;
+  top: 2%;
   left: 0;
   z-index: 999;
   width: 100%;
@@ -33,6 +33,8 @@
 
 .App-header .Main{
   float: left;
+  position: fixed;
+  top: 20%;
 }
 
 .App-header .Model-Input{
@@ -42,6 +44,6 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  min-width: 10em;
+  min-width: 15em;
   min-height: 10em;
 }

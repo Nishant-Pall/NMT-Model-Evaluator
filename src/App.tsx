@@ -9,7 +9,20 @@ function App() {
           Here you can evaluate or compare Machine Translation Models according to their BLEU Score
         </div>
         <div className="Main">
-          YO
+          <div className="container">
+            <div className="row">
+              <div className="col-6">
+                <div className="Model-Input">
+                  Model 1
+                </div>
+              </div>
+              <div className="col-6">
+                <div className="Model-Input">
+                  Model 2
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </header>
     </div>
